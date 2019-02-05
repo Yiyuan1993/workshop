@@ -1,2 +1,3 @@
 Day 1 morning:bash command line 
 Day 1 afternoon : python
+Day 2 morning:advanced python
