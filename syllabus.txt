@@ -2,3 +2,4 @@ Day 1 morning:bash command line
 Day 1 afternoon : python
 Day 2 morning:advanced python
 Day 2 afternoon : git version control
+Day 3 Go to Tianshifu restaurant 
